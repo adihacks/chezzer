@@ -1,2 +1,2 @@
 # chezzer
-snapshot based API fuzzer : )
+in develpoment snapshot based API fuzzer : )
